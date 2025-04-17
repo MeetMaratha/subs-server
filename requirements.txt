@@ -1,0 +1,6 @@
+flask
+huggingface_hub
+mysql-connector-python
+boto3
+tabulate
+flask_cors
